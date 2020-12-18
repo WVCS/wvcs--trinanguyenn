@@ -3,7 +3,7 @@ li {
   display: inline;
 }
 li a:hover{
-  background-color: lightblue;
+  background-color: darkpink;
 }
   h1 {
     color: black;
